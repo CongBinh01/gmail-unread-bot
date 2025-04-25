@@ -28,3 +28,8 @@ This is a simple Python bot to check unread emails in your Gmail inbox.
 
 ## License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Bot Output
+
+![Bot Screenshot](Mail.png)
+
