@@ -1,7 +1,9 @@
 # Ignore virtual environment
 venv/
 
-# Ignore credentials and token files
+# Ignore credentials
 credentials.json
 
+# Ignore token.json
 token.json
+
